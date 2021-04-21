@@ -1,0 +1,5 @@
+payment.AuthorizeCredit1
+payment.IauthorizeBehavior
+payment.AuthorizeCredit2
+payment.AuthorizeCheck
+payment.AuthorizeNon
